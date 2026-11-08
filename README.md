@@ -31,7 +31,7 @@ I turn messy problems into shipped products. I've owned products end to end acro
 
 **Result:** Launched on the App Store and Play Store in August 2026. 546 app downloads and 56 listings across Lagos LGAs by the time I left.
 
-**Stack:** [python] · [spacebutton.net](https://spacebutton.net)
+**Stack:** Python · [spacebutton.net](https://spacebutton.net)
 
 ---
 
@@ -52,7 +52,7 @@ I turn messy problems into shipped products. I've owned products end to end acro
 
 **Result:** 20 students pledged ahead of the first cohort starting 1 December 2026.
 
-**Stack:** React · Flutterwave · [NodeJS] · [techgrind.ng](https://www.techgrind.ng)
+**Stack:** React · Flutterwave · NodeJS · [techgrind.ng](https://www.techgrind.ng)
 
 ---
 
@@ -73,7 +73,7 @@ I turn messy problems into shipped products. I've owned products end to end acro
 
 **Result:** [add one number: students reached, practice sessions run or schools reached]
 
-**Stack:** [add you] · [femgrind.com.ng](https://femgrind.com.ng)
+**Stack:** ReactJs · [femgrind.com.ng](https://femgrind.com.ng)
 
 ---
 
